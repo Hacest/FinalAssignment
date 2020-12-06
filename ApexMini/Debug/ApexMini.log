@@ -1,0 +1,20 @@
+﻿  ApexMini.cpp
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(232,19): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(234,21): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(236,22): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(238,21): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(242,21): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(260,22): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(263,23): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(267,23): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(270,23): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(273,23): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(276,23): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(287,19): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(291,20): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(334,1): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(379,1): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(423,1): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(468,1): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\ApexMini\ApexMini.cpp(512,1): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+  ApexMini.vcxproj -> C:\Users\Haesoo Hwang\source\repos\ApexMini\Debug\ApexMini.exe
